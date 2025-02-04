@@ -20,7 +20,7 @@ The following models were used:
 
  Deployment
 The final step involves deploying the model for real-time predictions by:
-- Integrating with cloud services Azure for scalability.
+- Integrating with cloud services AWS for scalability.
 - Automating data updates for continuous improvement.
 
 Conclusion
