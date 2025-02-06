@@ -1,7 +1,7 @@
 # Insurance Premimum Price-Prediction
 Introduction:
 This project analyzes and forecasts insurance premium values using historical data and time series modeling. The dataset initially contained 80 lakh (8 million) records, requiring preprocessing and aggregation to extract meaningful insights. The goal is to predict premium trends to aid insurers in pricing strategies and decision-making.
-
+Dataset link - https://www.kaggle.com/datasets/ex0ticone/brazilian-insurance-market-data/code
  Data Processing
 - Grouping by Company Code, Product, and State to identify business trends.
 -Counting Premiums to analyze distribution.
