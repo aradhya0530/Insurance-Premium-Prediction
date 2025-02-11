@@ -7,7 +7,7 @@ Dataset link - https://www.kaggle.com/datasets/ex0ticone/brazilian-insurance-mar
 - Grouping by Company Code, Product, and State to identify business trends.
 -Counting Premiums to analyze distribution.
 - Selecting Top Entities with the highest premium counts.
-- Reducing the dataset to 247 rows for efficient modeling.
+- Reducing the dataset to 247 rows to focus on a particular company product for efficient modeling.
 
 Time Series Analysis
 Stationarity tests, including the ADF test, revealed non-stationary data. To address this, differencing was applied to remove trends and improve model performance.
